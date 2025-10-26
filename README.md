@@ -1,7 +1,7 @@
 # MIST4610-Group-Project
 This project is the creation of a complex data model for our class's data management group project. 
 
-Group 2
+**Group 2**
 
 Team Members:
 
