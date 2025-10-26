@@ -4,10 +4,15 @@ This project is the creation of a complex data model for our class's data manage
 Group 2
 
 Team Members:
+
 [Daniel Ferrer](https://github.com/daniel-ferrer-maker)
-Ian Martin 
+
+Ian Martin
+
 Noila Rahimjon 
+
 Oraa Raysoni 
+
 Sisira Gudi
 
 Problem Description:
