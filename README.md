@@ -125,7 +125,7 @@ Query #4 retrieves all orders where the TotalCost exceeds $100. This query helps
 Query 5 (Simple):
 What is our complete product catalog, sorted from most to least expensive?
 
-<img width="376" height="506" alt="Screenshot 2025-10-26 at 4 23 04 PM" src="https://github.com/user-attachments/assets/f8fab36a-362e-4508-8bdb-b27cb84f9ee4" />
+<img width="602" height="528" alt="Screenshot 2025-10-26 at 4 44 24 PM" src="https://github.com/user-attachments/assets/b77eeced-7fc7-4913-bdf1-a1746437a96d" />
 
 
 Query #5 retrieves the entire product list, ordered by UnitPrice in descending order. It provides a clear overview of the product catalog's price range. This query allows managers to analyze the pricing strategy at a glance, identify premium items, and ensure the catalog is well-balanced between high- and low-end products.
