@@ -180,6 +180,8 @@ Query #10 calculates the total revenue collected from each payment method and us
 **Name of database:**
 ns_osr89909
 
+Name of Data Model:
+Project
 
 
 
