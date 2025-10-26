@@ -178,7 +178,7 @@ Query #10 calculates the total revenue collected from each payment method and us
 
 # Datebase Information
 **Name of database:**
-xxx
+ns_osr89909
 
 
 
