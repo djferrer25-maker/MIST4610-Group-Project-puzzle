@@ -34,53 +34,58 @@ Finally, the Custom_Order_Requests entity manages our custom puzzle service. Thi
 
 # Data Dictionary: 
 
-**Customers:**
+Table: **Customers:**
 
 <img width="896" height="193" alt="image" src="https://github.com/user-attachments/assets/3139354d-826e-4544-9183-17c6aa225dee" />
 
-**Artists:**
+Table: **Artists:**
 
 <img width="686" height="145" alt="image" src="https://github.com/user-attachments/assets/3598c1a7-cf52-4b9e-b3c7-25c227604aa1" />
 
-**Orders:**
+Table: **Orders:**
 
 <img width="831" height="169" alt="image" src="https://github.com/user-attachments/assets/fc69705b-3958-4eef-a0ab-de29866e7a01" />
 
-**Adresses:**
+Table: **Adresses:**
 
 <img width="754" height="193" alt="image" src="https://github.com/user-attachments/assets/57bee603-f9dc-4764-a076-8a09d8d5d744" />
 
-**Products:**
+Table: **Products:**
 
 <img width="891" height="217" alt="image" src="https://github.com/user-attachments/assets/99f50fd3-04b1-4ad8-91d0-f15e72fd1900" />
 
-**Order Items:**
+Table: **Order Items:**
 
 <img width="756" height="145" alt="image" src="https://github.com/user-attachments/assets/740389dc-d363-464c-9739-8a911d3dd265" />
 
-**Payments:**
+Table: **Payments:**
 
 <img width="839" height="169" alt="image" src="https://github.com/user-attachments/assets/26e81efe-4533-49bd-b6ba-d2436f7b6a35" />
 
-**Product Images:**
+Table: **Product Images:**
 
 <img width="794" height="145" alt="image" src="https://github.com/user-attachments/assets/bb05b095-9e16-4456-a235-5187c9132034" />
 
-**Product Categories:**
+Table: **Product Categories:**
 
 <img width="656" height="73" alt="image" src="https://github.com/user-attachments/assets/95e0f2ff-0926-4cbb-b5a5-ba277d382064" />
 
-**Categories:**
+Table: **Categories:**
 		
 <img width="678" height="97" alt="image" src="https://github.com/user-attachments/assets/32cb7537-bf74-49bd-8c02-0c9abfb394ee" />
 
-**Customer_Order_Request**: 
+Table: **Customer_Order_Request**: 
 
 <img width="986" height="289" alt="image" src="https://github.com/user-attachments/assets/25c946b9-cc8e-42fc-aefc-d4f5bbd5a616" />
 
-**Employees**: 
+Table: **Employees**: 
 
 <img width="666" height="169" alt="image" src="https://github.com/user-attachments/assets/fb949e56-09c2-4c0b-b623-90aae8b78cfe" />
+
+# Queries: 
+
+<img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/b5fbae69-f1e2-46a8-94a4-a27865196ce4" />
+
 
 
 
