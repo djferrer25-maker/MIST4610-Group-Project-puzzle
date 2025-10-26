@@ -5,7 +5,7 @@ This project is the creation of a complex data model for our class's data manage
 
 Team Members:
 
-[Daniel Ferrer](https://github.com/daniel-ferrer-maker)
+[Daniel Ferrer](https://github.com/djferrer25-maker)
 
 Ian Martin
 
