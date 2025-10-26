@@ -84,7 +84,7 @@ Table: **Employees**:
 
 # Queries: 
 
-<img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/7115b7b4-a0ba-4bb0-8d89-306d160700bf" />
+<img width="1900" height="265" alt="image" src="https://github.com/user-attachments/assets/d3577b6b-eb16-4648-a33e-81bae775c760" />
 
 Query 1 (Simple):
 Retrieve all of the order information for customer #1, including the idOrder, OrderDate, TotalCosts, Status, and Notes.
