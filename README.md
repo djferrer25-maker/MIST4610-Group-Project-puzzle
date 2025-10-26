@@ -74,6 +74,16 @@ Finally, the Custom_Order_Requests entity manages our custom puzzle service. Thi
 		
 <img width="678" height="97" alt="image" src="https://github.com/user-attachments/assets/32cb7537-bf74-49bd-8c02-0c9abfb394ee" />
 
+**Customer_Order_Request**: 
+
+<img width="986" height="289" alt="image" src="https://github.com/user-attachments/assets/25c946b9-cc8e-42fc-aefc-d4f5bbd5a616" />
+
+**Employees**: 
+
+<img width="666" height="169" alt="image" src="https://github.com/user-attachments/assets/fb949e56-09c2-4c0b-b623-90aae8b78cfe" />
+
+
+
 
 
 
