@@ -7,7 +7,7 @@ Team Members:
 
 [Daniel Ferrer](https://github.com/djferrer25-maker)
 
-https://github.com/icmj6789-commits
+[Ian Martin](https://github.com/icmj6789-commits)
 
 [Noila Rahimjon](https://github.com/noilar)
 
